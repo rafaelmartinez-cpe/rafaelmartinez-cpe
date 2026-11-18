@@ -7,7 +7,7 @@ I graduated from Cal Poly SLO in 2026 with a degree in Computer Engineering. Rig
 **[eagle-cdp-linux-port](https://github.com/rafaelmartinez-cpe/eagle-cdp-linux-port)**
 Our senior capstone. We got the ClusterDuck Protocol, a LoRa mesh network for disaster response, running on Raspberry Pi 5s with Linux for OWL Integrations. I worked on the Linux build, getting it running on the Pis, testing, and docs.
 
-More coming soon, including my wearable activity recognition project (Python, scikit-learn) and a ROS 2 sensor fusion and mapping project.
+More coming soon, including my wearable activity recognition project (Python, scikit-learn).
 
 ### Stuff I've worked with
 
