@@ -10,6 +10,9 @@ Our senior capstone. We got the ClusterDuck Protocol, a LoRa mesh network for di
 **[shimmer-activity-recognition](https://github.com/rafaelmartinez-cpe/shimmer-activity-recognition)**
 Senior project with a friend. We streamed accelerometer data from a Shimmer3 wearable over Bluetooth and trained a Random Forest in Python to tell if someone is resting, walking, or running in real time.
 
+**[ros2-ekf-heading](https://github.com/rafaelmartinez-cpe/ros2-ekf-heading)**
+My robotics class final project, done solo. I wrote an Extended Kalman Filter in Python for ROS 2 that combines IMU and LiDAR odometry to estimate which way a robot is facing, and tested it in simulation.
+
 ### Stuff I've worked with
 
 C, C++, Python, Linux, Raspberry Pi, Git, ROS 2, scikit-learn, LoRa
